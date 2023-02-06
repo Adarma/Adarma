@@ -2,6 +2,8 @@
 
 ## Languages
 
+- C
+- C++
 - JavaScript
 - Python
 - Rust
